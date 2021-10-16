@@ -14,7 +14,7 @@ function TodoList(props) {
   return (
     <ul style={styles.ul}>  
       { props.items.map((todo, index) => {
-        return <TodoItem 
+        return <TodoItem
                 todo={todo} 
                 index={index} 
                 key={todo.id} 
