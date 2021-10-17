@@ -7,7 +7,7 @@ const styles = {
     display: 'flex',
     justifyContent: 'space-between',
     alignItems: 'center',
-    padding: '.5 rem 1rem',
+    padding: '.5rem 1rem',
     border: '1px solid #ccc',
     borderRadius: '4px',
     marginBottom: '.5rem'
